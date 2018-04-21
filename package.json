@@ -1,0 +1,15 @@
+{
+  "name": "sector-one-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A dark brown high-contrast theme heavily inspired by the Atom website colors.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/mattly/atom-sector-one-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
