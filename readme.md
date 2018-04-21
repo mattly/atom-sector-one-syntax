@@ -8,18 +8,17 @@ Comments are colored brightly under the belief they are callouts and your
 attention should be drawn to them, rather than ignored.
 
 ## Screenshots
+### Bash
+![bash](https://github.com/mattly/atom-sector-one-syntax/raw/master/images/bash.png)
+
 ### Clojure
-![clojure](images/clojure.png)
+![clojure](https://github.com/mattly/atom-sector-one-syntax/raw/master/images/clojure.png)
 
 ### ECMAscript
-![ecmascript](images/javascript.png)
+![ecmascript](https://github.com/mattly/atom-sector-one-syntax/raw/master/images/javascript.png)
 
 ### HTML / Hugo
-![hugo](images/hugo.png)
+![hugo](https://github.com/mattly/atom-sector-one-syntax/raw/master/images/hugo.png)
 
 ## Markdown
-![markdown](images/markdown.png)
-
-### Shell Scripts
-![bash](images/bash.png)
-
+![markdown](https://github.com/mattly/atom-sector-one-syntax/raw/master/images/markdown.png)
