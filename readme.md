@@ -8,6 +8,8 @@ Comments are colored brightly under the belief they are callouts and your
 attention should be drawn to them, rather than ignored.
 
 ## Screenshots
+The typeface used in these screenshots is [Iosevka](https://be5invis.github.io/Iosevka/)
+
 ### Bash
 ![bash](https://github.com/mattly/atom-sector-one-syntax/raw/master/images/bash.png)
 
